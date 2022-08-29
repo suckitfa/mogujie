@@ -17,3 +17,11 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+### MockJS
+
+- mockjs.com
+
+![image-20220829100804149](.\src\assets\image-20220829100804149.png)
